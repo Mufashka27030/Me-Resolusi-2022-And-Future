@@ -10,6 +10,6 @@ Rencana Belajar
   2.Javascript Lanjutan
 - ReactJS
 - Framework
-- PHP
+
 - Rest API
 - HTML 5
