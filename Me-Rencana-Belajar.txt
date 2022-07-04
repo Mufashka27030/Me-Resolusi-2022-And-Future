@@ -1,0 +1,11 @@
+Rencana Belajar
+
+- CSS
+  1.CSS Dasar
+  2.CSS Layouting
+  3.CSS 3
+- Javascript
+- ReactJS
+- Framework
+- PHP
+- Rest API
