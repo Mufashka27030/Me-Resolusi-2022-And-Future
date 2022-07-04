@@ -1,0 +1,6 @@
+Rencana Belajar
+
+- CSS
+- Javascript
+- ReactJS
+- Framework
