@@ -8,5 +8,8 @@ Rencana Belajar
 - Javascript
 - ReactJS
 - Framework
-- PHP
+
 - Rest API
+- Bootstrap
+- Road Map Web Backend Developer
+- Tailwind CSS
