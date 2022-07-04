@@ -6,10 +6,10 @@ Rencana Belajar
   3.CSS 3
   4.CSS Framework
 - Javascript
+  1.Javascript Dasar
+  2.Javascript Lanjutan
 - ReactJS
 - Framework
 
 - Rest API
-- Bootstrap
-- Road Map Web Backend Developer
-- Tailwind CSS
+- HTML 5
